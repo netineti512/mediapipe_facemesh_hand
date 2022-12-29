@@ -1,9 +1,3 @@
----
-title: [MediaPipe]手の座標データ(21個)と特定の顔の座標データ(4個)を結合させる。
-tags: MediaPipe CSV
-author: netineti512
-slide: false
----
 以下の記事で取得した顔座標から必要な点を取り出す。
 [MediaPipeで顔と手の座標データを出力する方法[CSV]]()
 
